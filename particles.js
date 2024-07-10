@@ -66,7 +66,7 @@ var pJS = function(tag_id, params){
       },
       move: {
         enable: true,
-        speed: 200,
+        speed: 1,
         direction: 'none',
         random: false,
         straight: false,
